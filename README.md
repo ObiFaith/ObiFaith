@@ -1,6 +1,6 @@
 # Hi, I'm Faith Obi! 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-faithdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faithdev) [![Twitter Badge](https://img.shields.io/badge/-@Faith_Dev_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Faith_Dev_)
+[![Linkedin Badge](https://img.shields.io/badge/-faithdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithdev)](https://www.linkedin.com/in/faithdev) [![Twitter Badge](https://img.shields.io/badge/-@Faith_Dev_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Faith_Dev_)](https://twitter.com/Faith_Dev_)
 
 I'm a Frontend Web Developer and Responsive Design Enthusiast. I am passionate about web experiences, sharing knowledge, documentation, and others. 
 
