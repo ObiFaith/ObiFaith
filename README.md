@@ -8,7 +8,7 @@ I'm a Frontend Web Developer and Responsive Design Enthusiast. I am passionate a
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I love sports. I play Table Tennis and Football.
-- 🌱 I’m currently learning Reactjs, Typescript, and Python.
+- 🌱 I’m currently learning NextJs ReactJs, and Typescript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Web Developer, or Web Developer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1qCbmmoCGAT_ufz5Rz-YUZS-Rl1f9fjs5/view?usp=drivesdk) and contact me by emailing obifth@gmail.com.
