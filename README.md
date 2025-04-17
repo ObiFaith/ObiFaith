@@ -10,8 +10,9 @@ I'm a Web Developer and Responsive Design Enthusiast. I am passionate about web 
 - 💡 Fun fact: I love sports and I play Table Tennis.
 - 🌱 I’m currently learning Nest.js and FastAPI.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and mid-level opportunities.
-- 💼 Job interests: Software Developer, Frontend Web Developer, or Web Developer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1qCbmmoCGAT_ufz5Rz-YUZS-Rl1f9fjs5/view?usp=drivesdk) and contact me by emailing obifth@gmail.com.
+- 💼 Job interests: Software Developer, Frontend Web Developer, or Web Developer.
+
+- 📫 You can [view my resume](https://drive.google.com/file/d/1RmPMCa9GiXisEKjOFSDgzkrLvb9xt5Xo/view?usp=drivesdk) and contact me by emailing obifth@gmail.com.
 
 ---
 
