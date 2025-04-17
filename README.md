@@ -2,15 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-faithdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithdev)](https://www.linkedin.com/in/faithdev) [![Twitter Badge](https://img.shields.io/badge/-@Faith_Dev_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Faith_Dev_)](https://twitter.com/Faith_Dev_)
 
-I'm a Frontend Web Developer and Responsive Design Enthusiast. I am passionate about web experiences, sharing knowledge, documentation, and others. 
+I'm a Web Developer and Responsive Design Enthusiast. I am passionate about web experiences, sharing knowledge, documentation, and others. 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I love sports. I play Table Tennis and Football.
-- 🌱 I’m currently learning NextJs ReactJs, and Typescript.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Web Developer, or Web Developer (Intern or Junior level).
+- 💡 Fun fact: I love sports and I play Table Tennis.
+- 🌱 I’m currently learning Nest.js and FastAPI.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and mid-level opportunities.
+- 💼 Job interests: Software Developer, Frontend Web Developer, or Web Developer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1qCbmmoCGAT_ufz5Rz-YUZS-Rl1f9fjs5/view?usp=drivesdk) and contact me by emailing obifth@gmail.com.
 
 ---
