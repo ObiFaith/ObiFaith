@@ -13,10 +13,15 @@ software.
 **A little about me**
 
 💻 I build with JavaScript, TypeScript, React, Next.js, Node.js, and NestJS
+
 🛠️ Currently working with my backend, system design, and AI engineering skills
+
 🤖 Exploring AI engineering, LLMs, and AI-powered applications
+
 📚 I enjoy reading, mentoring, and documenting technical concepts
+
 🏓 Fun fact: I like mathematics and I play table tennis
+
 💼 Open to Software Developer, Backend, Frontend, and Full-Stack opportunities
 
 - 📫 You can [view my resume](https://drive.google.com/file/d/1HiJ-6Xl5y-JWm1zl4_j45k4H2h0awOZw/view?usp=drive_link) and contact me by emailing obifth@gmail.com.
